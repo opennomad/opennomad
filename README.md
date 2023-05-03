@@ -13,4 +13,3 @@ Current favorite tools:
 - [tmux](https://github.com/tmux/tmux)
 - [gitui](https://github.com/Extrawurst/gitui)
 - [Lens](https://k8slens.dev/)
-- 
