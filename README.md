@@ -8,7 +8,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Current favorite tools:
-- [nvim]()
-- [zsh]()
-- [tmux]()
-- [Lens]()
+- [nvim](https://neovim.io/)
+- [zsh](https://sourceforge.net/projects/zsh/) with [Oh My Zsh](https://ohmyz.sh/)
+- [tmux](https://github.com/tmux/tmux)
+- [gitui](https://github.com/Extrawurst/gitui)
+- [Lens](https://k8slens.dev/)
+- 
